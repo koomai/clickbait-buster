@@ -18,8 +18,9 @@ A Chrome browser extension that transforms clickbait headlines and summaries on 
    - Toggle "Developer mode" on (top-right corner)
 
 3. **Load the Extension**:
+   - [Download](https://github.com/koomai/clickbait-buster/archive/refs/heads/main.zip) the files in this repo and unzip.
    - Click "Load unpacked" button
-   - Select the folder containing the extension files
+   - Select the folder containing the downloaded extension files
    - The ClickbaitBuster extension should now appear in your extensions list
 
 4. **Configure API Key**:
